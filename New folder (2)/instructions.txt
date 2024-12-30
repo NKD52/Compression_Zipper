@@ -1,0 +1,6 @@
+for file compression
+g++ huffman2.cpp -o huffman.exe
+
+
+For zipper
+g++ zipper_unzipper.cpp -o zipper_unzipper.exe -lz
